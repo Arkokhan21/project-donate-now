@@ -1,0 +1,80 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.gradient-style {
+    text-decoration: none;
+    background-color: #f55142;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 18px;
+    color: white;
+}
+
+.text-and-background {
+    text-align: center;
+    background-image: url(images/relief-flood.webp);
+    min-height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding-top: 1%;
+}
+
+#text-edit-1 {
+    font-size: 70px;
+    color: white;
+    padding-top: 60px;
+}
+
+#text-edit-2 {
+    font-size: 70px;
+    color: white;
+}
+
+.text-edit-3 {
+    font-size: x-large;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.flexible {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 50px
+}
+
+.align {
+    text-align: center;
+}
+
+.background-design {
+    background-color: #f2f2f2;
+    padding: 20px 10px 20px 10px;
+    color: grey;
+    border-radius: 3px;
+}
+
+#big-font {
+    font-size: 55px;
+}
+
+.gray {
+    color: gray;
+    font-size: larger
+}
+
+#add-color {
+    color: #cccccc;
+}
+
+#border-add {
+    padding: 20px 10px 20px 10px;
+    color: #f55142;
+    background-color: #fde8e8;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: #f55142;
+}
