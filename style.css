@@ -122,3 +122,88 @@ body {
 .color-change {
     color: grey
 }
+
+.again-flex {
+    display: flex;
+
+}
+
+.again-margin {
+    width: 700px;
+    height: 700px;
+    margin-left: 200px;
+    margin-top: 160px;
+}
+
+.again-margin-2 {
+    margin-right: 50px;
+    margin-top: 170px;
+}
+
+#sizefont {
+    font-size: x-large
+}
+
+.flex-flex {
+    display: flex;
+}
+
+.editthis {
+    margin-left: 180px;
+    margin-top: 30px;
+}
+
+.and-editthis {
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+#again-fontsize {
+    font-size: x-large;
+    padding-right: 20px;
+}
+
+.more-font {
+    font-size: 55px;
+    padding-top: 20px;
+}
+
+#centerthis {
+    text-align: center;
+}
+
+.go-center {
+    text-align: center;
+    background-color: #faf8d7;
+    width: 800px;
+    height: 80px;
+    padding-left: 100px;
+    padding-top: 60px;
+    padding-right: 60px;
+    margin-left: 450px;
+    margin-top: 30px;
+}
+
+button {
+    color: white;
+    background-color: #f55142;
+    border-color: #f55142;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    margin-top: 10%;
+    height: 200px;
+    padding-top: 60px;
+}
+
+#last-color {
+    color: #f55142;
+    font-family: Georgia, serif;
+    font-size: 40px
+}
+
+#lastt-color {
+    color: #cccccc;
+}
