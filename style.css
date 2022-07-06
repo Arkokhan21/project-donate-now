@@ -63,6 +63,14 @@ body {
     font-size: larger
 }
 
+#input-setup {
+    width: 30%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #cccccc;
+}
+
 #add-color {
     color: #cccccc;
 }
