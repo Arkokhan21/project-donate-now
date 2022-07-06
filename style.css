@@ -28,15 +28,12 @@ body {
     padding-top: 60px;
 }
 
-#text-edit-2 {
-    font-size: 70px;
-    color: white;
-}
 
 .text-edit-3 {
     font-size: x-large;
     color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 60px;
 }
 
 .flexible {
