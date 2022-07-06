@@ -14,11 +14,10 @@ body {
 .text-and-background {
     text-align: center;
     background-image: url(images/relief-flood.webp);
-    min-height: 800px;
+    height: 800px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
     padding-top: 1%;
 }
 
@@ -185,6 +184,7 @@ button {
     color: white;
     background-color: #f55142;
     border-color: #f55142;
+    border-style: solid;
 }
 
 footer {
@@ -193,6 +193,8 @@ footer {
     margin-top: 10%;
     height: 200px;
     padding-top: 60px;
+    width: 100%;
+    position: absolute;
 }
 
 #last-color {
@@ -202,5 +204,9 @@ footer {
 }
 
 #lastt-color {
-    color: #cccccc;
+    color: white;
+}
+
+#contact {
+    text-decoration: none;
 }
